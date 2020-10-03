@@ -710,7 +710,7 @@ footer {
   /* HEADER */
   #hero {
     padding: 10px 10px 65px;
-    background-image: url(../img2/hero-image-layout.png);
+    background-image: url(../img/hero-image-layout.png);
     background-position: center center;
     background-size: cover;
   }

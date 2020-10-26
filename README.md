@@ -2,7 +2,7 @@
 
 This project is developed as part of my coding bootcamp at Kodigo Code Camp . We are supposed to clone a landing page website and make it responsive using only HTML and CSS. No framework was implemented like Bootstrap, pure HTML and CSS only.
 
-## Demo
+## Live Link
 
 You can see the live demo of the website here:
 

@@ -10,12 +10,11 @@ You can see the live demo of the website here:
 
 # <p align="center"><img src="assets/img/shortlist.png"></p>
 
-## Authors
-
-- [Christian Lacaste](https://christianlacaste.me/)
-
-
 ## Technologies
 
 -   HTML
 -   CSS
+
+## Author
+
+- [Christian Lacaste](https://christianlacaste.me/)
